@@ -1,0 +1,27 @@
+
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+
+
+.box {
+  padding: 10px;
+  text-align: center;
+  background: rgb(169,192,172);
+  border: 1px solid black;
+}
+
+/* debug nested */
+
+.nested {
+  padding: 5px;
+  text-align: center;
+  background: red;
+  border: 1px solid white;
+}
